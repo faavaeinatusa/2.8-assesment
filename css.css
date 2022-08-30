@@ -22,8 +22,8 @@ grid-column: 1/4;
 grid-row: 1;
 }
 
-.nav{
-background-color: red;
+.nav}
+background-color: white;
 grid-column: 1/4;
 grid-row: 2;
 font-family: Arial;
